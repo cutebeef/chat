@@ -37,13 +37,5 @@ def main():#將此段執行程式包裹成一個主要執行程式碼
 
 
 main()
-    #if os.path.isfile(filename): #檢查檔案是否有在此路徑裡
-        #print('YA! 找到檔案')
-        #products = read_file(filename)
-    #else:
-        #print("找不到檔案....")
 
-    #products = user_input(products)
-    #print_products(products)
-    #write_file('product.csv', products)
 
